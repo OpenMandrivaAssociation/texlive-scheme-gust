@@ -66,3 +66,11 @@ documents in PostScript or PDF.
 %build
 
 %install
+
+
+%changelog
+* Wed Mar 07 2012 Paulo Andrade <pcpa@mandriva.com.br> 20120307-1
++ Revision: 783121
+- Import texlive-scheme-gust
+- Import texlive-scheme-gust
+
