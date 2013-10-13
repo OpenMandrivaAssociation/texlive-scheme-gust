@@ -1,11 +1,11 @@
-# revision 21479
+# revision 30372
 # category Scheme
 # catalog-ctan undef
 # catalog-date undef
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-scheme-gust
-Version:	20120307
+Version:	20131013
 Release:	1
 Summary:	GUST TeX Live scheme
 Group:		Publishing
@@ -33,7 +33,6 @@ Requires:	texlive-iwona
 Requires:	texlive-metafont-beginners
 Requires:	texlive-metapost-examples
 Requires:	texlive-poltawski
-Requires:	texlive-pstricks-tutorial
 Requires:	texlive-seetexk
 Requires:	texlive-seminar
 Requires:	texlive-tds
@@ -41,7 +40,6 @@ Requires:	texlive-tex4ht
 Requires:	texlive-texdoc
 Requires:	texlive-collection-basic
 Requires:	texlive-collection-context
-Requires:	texlive-collection-documentation-polish
 Requires:	texlive-collection-fontutils
 Requires:	texlive-collection-fontsrecommended
 Requires:	texlive-collection-genericrecommended
@@ -66,11 +64,3 @@ documents in PostScript or PDF.
 %build
 
 %install
-
-
-%changelog
-* Wed Mar 07 2012 Paulo Andrade <pcpa@mandriva.com.br> 20120307-1
-+ Revision: 783121
-- Import texlive-scheme-gust
-- Import texlive-scheme-gust
-
