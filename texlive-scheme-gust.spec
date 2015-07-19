@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-scheme-gust
 Version:	20131013
-Release:	8
+Release:	9
 Summary:	GUST TeX Live scheme
 Group:		Publishing
 URL:		http://tug.org/texlive
