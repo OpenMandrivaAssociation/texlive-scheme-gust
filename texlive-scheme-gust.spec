@@ -5,7 +5,7 @@
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-scheme-gust
-Version:	20170504
+Version:	20180303
 Release:	1
 Summary:	GUST TeX Live scheme
 Group:		Publishing
