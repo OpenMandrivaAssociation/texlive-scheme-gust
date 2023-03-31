@@ -1,6 +1,6 @@
 Name:		texlive-scheme-gust
 Version:	59755
-Release:	1
+Release:	2
 Summary:	GUST TeX Live scheme
 Group:		Publishing
 URL:		http://tug.org/texlive
