@@ -3,7 +3,7 @@ Version:	59755
 Release:	2
 Summary:	GUST TeX Live scheme
 Group:		Publishing
-URL:		http://tug.org/texlive
+URL:		https://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scheme-gust.r%{version}.tar.xz
 BuildArch:	noarch
