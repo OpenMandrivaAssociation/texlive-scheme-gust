@@ -42,9 +42,9 @@ Requires:	texlive(poltawski)
 Requires:	texlive(seetexk)
 Requires:	texlive(seminar)
 Requires:	texlive(tds)
-Requires:	tex4ht
+Requires:	texlive(tex4ht)
 Requires:	texlive(texdoc)
-Provides:	texlive(%{tl_name}) = %{tl_revision}
+Provides:	texlive(%{tl_name}) = %{version}
 
 %description
 This is the GUST TeX Live scheme: it is a set of files sufficient to
